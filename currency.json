@@ -1,0 +1,46 @@
+{
+  "USD": {
+    "abbreviation": "USD",
+    "format": "$%amount%",
+    "coins": [
+      {
+        "name": "Quarter",
+        "value": 25
+      },
+      {
+        "name": "Dime",
+        "value": 10
+      },
+      {
+        "name": "Nickel",
+        "value": 5
+      },
+      {
+        "name": "Penny",
+        "value": 1
+      }
+    ]
+  },
+  "AUD": {
+    "abbreviation": "AUD",
+    "format": "$%amount%",
+    "coins": [
+      {
+        "name": "Hit The Frog and Toad",
+        "value": 37
+      },
+      {
+        "name": "Good On Ya",
+        "value": 11
+      },
+      {
+        "name": "Smoko",
+        "value": 6
+      },
+      {
+        "name": "Fair Go Mate",
+        "value": 1
+      }
+    ]
+  }
+}
